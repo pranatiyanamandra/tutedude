@@ -1,0 +1,10 @@
+.center {
+    display: grid;
+    justify-content: center;
+}
+
+.referral-text{
+    color: #800080;
+    letter-spacing:0.8em;
+    text-align:center;
+}

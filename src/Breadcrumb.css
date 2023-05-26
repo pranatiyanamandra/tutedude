@@ -1,0 +1,15 @@
+.breadcrumb-not-active {
+    color: #000000;
+}
+
+.breadcrumb-active {
+    color: #000000;
+}
+
+.breadcrumb-arrow {
+   
+}
+
+a:link{
+    text-decoration: none;
+}

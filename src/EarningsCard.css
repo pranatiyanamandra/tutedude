@@ -1,0 +1,23 @@
+.referral{
+    color: #800080;
+    font-size: 18px;
+}
+
+.cost-text{
+    font-size: 32px;
+    color: black;
+}
+
+@media screen and (max-width: 740px) {
+    .cost-text{
+        font-size: 24px;
+        color: black;
+    }
+  }
+
+  @media screen and (max-width: 640px) {
+    .cost-text{
+        font-size: 18px;
+        color: black;
+    }
+  }
